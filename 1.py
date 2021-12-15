@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
-print("newconfig!!!!!!!!dfgdfh!!!!!")
+print("newcosfsdfgnfig!!!!!!!!dfgdfh!!!!!")
 print("newline!!!!!!!555555!!!!!!12345!")
